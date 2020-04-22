@@ -4,7 +4,7 @@ Schmigalla triangle heuristic is a very interesting approach  seeking for some f
 
 To find an optimal solution, I encourage to find out some interesting related information in: https://www.researchgate.net/publication/319678187_Designing_a_Layout_Using_Schmigalla_Method_Combined_with_Software_Tool_visTABLE
 
-##Dependences
+## Dependences
 
 - Networkx
 - Numpy
