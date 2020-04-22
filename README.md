@@ -16,4 +16,4 @@ To find an optimal solution, I encourage to find out some interesting related in
 
 <a id="1">[2]</a> Schmigalla,  H. (1970).  Methoden zur  optimalen  Maschinenanordnung, VEB  Verlag  Technik, Berlin
 
-<a id="1">[2]</a> Hernández, Gilberto; Gunther, Woithe(1986). Fundamentos de la Proyección de Fabricas, Pueblo y Educación, 1986
+<a id="1">[3]</a> Hernández, Gilberto; Gunther, Woithe(1986). Fundamentos de la Proyección de Fabricas, Pueblo y Educación, 1986
