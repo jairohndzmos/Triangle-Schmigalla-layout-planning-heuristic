@@ -14,6 +14,6 @@ To find an optimal solution, I encourage to find out some interesting related in
 ## References
 <a id="1">[1]</a> Tompkins, J. A.; White, J. A.; Bozer, Y. A.; Tanchoco, J. M. A. (2010). Facilities planning, 4th edition, John Wiley & Sons, Danvers
 
-<a id="1">[2]</a> Schmigalla,  H. (1970).  Methoden zur  optimalen  Maschinenanordnung, VEB  Verlag  Technik, Berlin
+<a id="2">[2]</a> Schmigalla,  H. (1970).  Methoden zur  optimalen  Maschinenanordnung, VEB  Verlag  Technik, Berlin
 
-<a id="1">[3]</a> Hernández, Gilberto; Gunther, Woithe(1986). Fundamentos de la Proyección de Fabricas, Pueblo y Educación, 1986
+<a id="3">[3]</a> Hernández, Gilberto; Gunther, Woithe(1986). Fundamentos de la Proyección de Fabricas, Pueblo y Educación, 1986
